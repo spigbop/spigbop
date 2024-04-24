@@ -13,4 +13,4 @@ Sorry for the corny README.md but if you don't have corn what else are you going
 If I seem familiar with another nickname my alias is 'Xpoxy' you may have heard that name more!
 
 [![itch.io](https://img.shields.io/badge/visit_my-itch.io-FA5C5C)](https://xpoxy.itch.io/)
-[![steam page](https://img.shields.io/badge/visit_my-steam_page-32557A)]([https://xpoxy.itch.io/](https://steamcommunity.com/id/xpoxy/))
+[![steam page](https://img.shields.io/badge/visit_my-steam_page-32557A)](https://steamcommunity.com/id/xpoxy/)
