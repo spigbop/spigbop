@@ -12,5 +12,5 @@
 Sorry for the corny README.md but if you don't have corn what else are you going to eat :)<br />
 If I seem familiar with another nickname my alias is 'Xpoxy' you may have heard that name more!
 
-[![itch.io](https://img.shields.io/badge/visit_my-itch.io-FA5C5C)](https://xpoxy.itch.io/)
-[![steam page](https://img.shields.io/badge/visit_my-steam_page-32557A)](https://steamcommunity.com/id/xpoxy/)
+[![itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://xpoxy.itch.io/)
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/xpoxy/)
