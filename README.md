@@ -9,7 +9,7 @@
      |_|      |___/            |_|      Version 17.8 of spigbop | passed 76/78 checks.
 ```
 
-If I seem familiar with another nickname my alias is 'Xpoxy' you may have heard that name more!
+If I seem familiar with another nickname my alias is **Xpoxy** you may have heard that name more!
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/xpoxy_)
 [![itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white&style=for-the-badge)](https://xpoxy.itch.io/)
