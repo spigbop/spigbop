@@ -6,7 +6,7 @@
  \__ \ |_) | | (_| | |_) | (_) | |_) |  games since birth. (my first word was 'computer', real story!)
  |___/ .__/|_|\__, |_.__/ \___/| .__/   🎧 Infinity Repeating (2013 Demo) ~ Random Access Memories
      | |       __/ |           | |    
-     |_|      |___/            |_|      Version 17.8 of spigbop | passed 76/78 checks.
+     |_|      |___/            |_|      
 ```
 
 If I seem familiar with another nickname my alias is **Xpoxy** you may have heard that name more!
