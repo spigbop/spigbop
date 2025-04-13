@@ -1,15 +1,13 @@
 ```
                     _                   'spigbop' loaded successfully with 138 commands!
-           (_)     | |                  
+           (_)     | |                  🎧 Infinity Repeating (2013 Demo) ~ Random Access Memories
   ___ _ __  _  __ _| |__   ___  _ __    
- / __| '_ \| |/ _` | '_ \ / _ \| '_ \   A kid with too much enthusiasm to code and a passion to create video
- \__ \ |_) | | (_| | |_) | (_) | |_) |  games since birth. (my first word was 'computer', real story!)
- |___/ .__/|_|\__, |_.__/ \___/| .__/   🎧 Infinity Repeating (2013 Demo) ~ Random Access Memories
+ / __| '_ \| |/ _` | '_ \ / _ \| '_ \   
+ \__ \ |_) | | (_| | |_) | (_) | |_) |  
+ |___/ .__/|_|\__, |_.__/ \___/| .__/   
      | |       __/ |           | |    
      |_|      |___/            |_|      
 ```
-
-If I seem familiar with another nickname my alias is **Xpoxy** you may have heard that name more!
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/xpoxy_)
 [![itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white&style=for-the-badge)](https://xpoxy.itch.io/)
